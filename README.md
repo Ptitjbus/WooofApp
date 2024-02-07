@@ -9,12 +9,14 @@
 
 ### Le projet
 
+> [Lien du figma](https://www.figma.com/file/GH35XpB6erIgTm6jfpweFz/Wooof?type=design&node-id=0%3A1&mode=design&t=d3Vcfn4ZfYBn460Q-1)
+
 Wooof App est une application de services pour propriétaires d'animaux de compagnie. Sur cette application, il est possible de proposer une mission (ex: garder son chien) et/ou de répondre au besoin proposé.
 Sur l'application il est possible de consulter les offres, autour de soi via des filtres et une carte. D'y répondre via une messagerie et également de poster sa propre annonce.
 
-> [Lien du figma](https://www.figma.com/file/GH35XpB6erIgTm6jfpweFz/Wooof?type=design&node-id=0%3A1&mode=design&t=d3Vcfn4ZfYBn460Q-1)
-
 ### Travail réalisé
+
+> [Lien de la vidéo démo](https://youtu.be/XEh3mUMSfd0)
 
 Nous avions un temps limité pour faire l'application, environ une semaine. Voici ce qui a été réalisé durant ce temps.
 
