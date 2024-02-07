@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "588799200943",
+    "project_id": "wooofapp-a237a",
+    "storage_bucket": "wooofapp-a237a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588799200943:android:a73145313abcb9d5df4e5a",
+        "android_client_info": {
+          "package_name": "com.mathisviollet.wooofapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRbbsR6-tLloHco70KCiHjQK8kyGUqleo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
